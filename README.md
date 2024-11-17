@@ -7,7 +7,7 @@ We cleaned and merged datasets from multiple sources (including web scraping) an
 **Skills:** Database Design, Web Scraping, Entity Resolution, DataGrip, SQL, AWS, RDS, JavaScript, HTML, CSS, React, Express, Node.js, Material UI, Leaflet.js
 
 ### Figure 1:
-Select World Cup, shows most important stats from that World Cup.
+Select World Cup for overall stats and matches.
 
 <br>
 
