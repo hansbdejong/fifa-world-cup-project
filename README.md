@@ -1,8 +1,15 @@
 # fifa-world-cup-project
 
+Description: Returns all of the years that the World Cup has been played <br>
+Parameters: None <br>
+Response: An array of objects in the following form: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;{ “ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;year”: INT <br>
+&nbsp;&nbsp;&nbsp;&nbsp;} <br>
+
 For the course Databases and Information Systems (CIS 550), we designed and built a full stack web application to query and display data from all World Cups. An experienced teaching assistant for this course called our project "insane", telling us that our project was the best project they had ever seen for this course. I took the lead for this project.
 
-We cleaned and merged datasets from multiple sources (including web scraping) and then designed and created our SQL database that we deployed on AWS RDS. The frontend was built using React and Material UI. Users can explore past World Cup results, zoom in to individual match statistics, find player and country statistics, explore individual stadiums, and gain insights such as top scorers and timing of goals.
+We cleaned and merged datasets from multiple sources (including web scraping) and then designed and created our normalized (Third Normal Form) SQL database that we deployed on AWS RDS. The frontend was built using React and Material UI. Users can explore past World Cup results, zoom in to individual match statistics, find player and country statistics, explore individual stadiums, and gain insights such as top scorers and timing of goals.
 
 **Skills:** Database Design, Web Scraping, Entity Resolution, DataGrip, SQL, AWS, RDS, JavaScript, HTML, CSS, React, Express, Node.js, Material UI, Leaflet.js
 
@@ -115,5 +122,6 @@ All time world cup standings.
 <br>
 
 ## Details
+
 
 
